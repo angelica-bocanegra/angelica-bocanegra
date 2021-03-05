@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello 👋
+I'm Angelica a Computer Science graduate learning everything I can about the front-end web development world.
 
+## GitHub Stats
+<a href="https://github.com/angelica-bocanegra/angelica-bocanegra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-bocanegra&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/angelica-bocanegra/angelica-bocanegra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelica-bocanegra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 <!--
 **angelica-bocanegra/angelica-bocanegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
