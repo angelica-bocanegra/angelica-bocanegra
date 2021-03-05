@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello :earth_asia:
 I'm Angelica a Computer Science graduate learning everything I can about the front-end web development world.
 
 ## GitHub Stats
